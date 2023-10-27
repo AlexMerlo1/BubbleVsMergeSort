@@ -1,0 +1,3 @@
+This program prompts the user to create a randomized list of numbers then sorts the list based on the numbers created. The user can also choose the size of the list and whether the list should be returned to them by typing in "yes" or "no" in all lowercase letters.
+
+This program will also show the time difference between the two sorting algorithms and display them to the user after the program has ran.
